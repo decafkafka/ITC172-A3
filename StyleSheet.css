@@ -1,0 +1,6 @@
+﻿body {
+}
+
+h1, p, td, a {font-family: "Courier New";}
+input[type='text'] {width: 200px;}
+input[type='password'] {width: 200px;}
